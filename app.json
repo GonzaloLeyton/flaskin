@@ -1,6 +1,6 @@
 {
   "name": "Flaskin",
-  "description": "Easy deploy",
+  "description": "Easy deploy for heroku",
   "logo": "http://i.imgur.com/zFFepbk.jpg",
   "repository": "https://github.com/GonzaloLeyton/flaskin",
   "keywords": ["flask", "python"]
